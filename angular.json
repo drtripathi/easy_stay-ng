@@ -129,11 +129,11 @@
   "defaultProject": "es-ng",
   "schematics": {
     "@schematics/angular:component": {
-      "prefix": "app",
+      "prefix": "es",
       "styleext": "css"
     },
     "@schematics/angular:directive": {
-      "prefix": "app"
+      "prefix": "es"
     }
   }
 }
